@@ -1,0 +1,73 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DrawText.cpp
+  Field.cpp
+  GetCell.cpp
+  Managementsystem.cpp
+  login.cpp
+D:\Visual Studio 2022\ISE project\Code\login.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio 2022\ISE project\Code\login.cpp(238,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(246,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(255,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(255,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(306,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio 2022\ISE project\Code\login.cpp(455,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(455,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(463,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(463,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(546,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(781,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2022\ISE project\Code\login.cpp(784,24): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\Visual Studio 2022\ISE project\Code\login.cpp(1501,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2022\ISE project\Code\login.cpp(1730,35): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+D:\Visual Studio 2022\ISE project\Code\login.cpp(1730,22): warning C4309: 'argument': truncation of constant value
+D:\Visual Studio 2022\ISE project\Code\login.cpp(1854,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio 2022\ISE project\Code\login.cpp(1828,3): warning C4102: 'error': unreferenced label
+  Cell.cpp
+  Generating Code...
+D:\Visual Studio 2022\ISE project\Code\login.cpp(935): warning C4715: 'game1': not all control paths return a value
+D:\Visual Studio 2022\ISE project\Code\login.cpp(628): warning C4715: 'game3': not all control paths return a value
+  Project2.vcxproj -> D:\Visual Studio 2022\ISE project\Code\x64\Debug\SFML.exe

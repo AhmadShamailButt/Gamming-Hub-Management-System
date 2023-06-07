@@ -1,0 +1,3 @@
+D:\Visual Studio 2022\Project2\x64\Debug\SFML.exe
+D:\Visual Studio 2022\ISE project\x64\Debug\SFML.exe
+D:\Visual Studio 2022\ISE project\Code\x64\Debug\SFML.exe
